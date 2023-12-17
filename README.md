@@ -6,7 +6,7 @@ This is a budget project using to practice flask and RESTful API.
 
 
 ## Getting Started
-### Enviromnent:
+### Environment:
 - Python version: python 3.11.6
 - Flask version: 3.0.0
 
